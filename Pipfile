@@ -7,8 +7,10 @@ name = "pypi"
 nikola = "*"
 aiohttp = "*"
 watchdog = "*"
+ghp-import = "*"
 
 [dev-packages]
+ipython = "*"
 
 [requires]
 python_version = "3.10"
