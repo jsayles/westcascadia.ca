@@ -171,9 +171,6 @@ ENV/
 # Rope project settings
 .ropeproject
 
-# mkdocs documentation
-/site
-
 ### Vim ###
 # swap
 [._]*.s[a-v][a-z]
